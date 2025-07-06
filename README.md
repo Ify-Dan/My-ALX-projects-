@@ -1,1 +1,1 @@
-LocalRepoProject
+git init LocalRepoProject
